@@ -7,6 +7,7 @@
 #include<sys/types.h>
 #include "string.h"
 #include "errno.h"
+#include "Definitions.h"
 
 #define MAX_BUFFER_SIZE 1025
 
@@ -42,17 +43,4 @@ public:
 	bool GetSocketCreatedStatus();
 };
 
-enum SocketProtocol
-{
-	TCPSocket = IPPROTO_TCP,
-	UDPSocket = IPPROTO_UDP,
-	SCTPSocket = IPPROTO_SCTP,
-	InvalidSocketProtocol = -1
-};
-enum SocketType
-{
-	SynchronousSocket = 1,
-	AsynchronousSocket = 2,
-	InvalidSocketType = -1
-};
 #endif

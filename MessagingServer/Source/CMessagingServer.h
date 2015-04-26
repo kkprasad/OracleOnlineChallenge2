@@ -19,8 +19,9 @@ enum MessageProcessorAction
 class CMessagingServer:public CServerSocket
 {
 private:
-	int					m_imaxMessageHandlerThreads;
 	bool					m_bmessagingServerActiveStatus;
+	static int				m_imaxMessageHandlerThreads;
+	static int				m_imaxMessageSenderThreads;
 	static std::queue<MessageData*>		m_qreceivedMessageQueue;
 	static std::queue<MessageData*>		m_qsendMessageQueue;
 	static std::queue<int>			m_qobseleteMessageHandlerQueue;
@@ -28,12 +29,17 @@ private:
 	static pthread_t			m_umessageHandlerthreadId;
 	static pthread_t			m_umessageSenderthreadId;
 	static pthread_t			m_umessageReceiverThreadId;
+	static pthread_mutex_t			m_umessageHandlerMutex;
+	static pthread_mutex_t			m_usendMessageMutex;
+	static pthread_mutex_t			m_uactiveServerListMutex;
 
 public:
 	CMessagingServer();
 	~CMessagingServer();
 	void SetMaxMessageHandlerThreads(int);
 	int GetMaxMessageHandlerThreads();
+	void SetMaxMessageSenderThreads(int);
+	int GetMaxMessageSenderThreads();
 	bool GetMessagingServerActiveStatus();
 	void SetMessagingServerActiveStatus(bool);
 

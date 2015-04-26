@@ -2,19 +2,19 @@
 
 CBasicSocket::CBasicSocket()
 {
-	m_isocketFD = -1;
-        m_bconnectionStatus = false;
-        m_bsocketCreatedStatus = false;
+	this->m_isocketFD = -1;
+        this->m_bconnectionStatus = false;
+        this->m_bsocketCreatedStatus = false;
 }
 CBasicSocket::~CBasicSocket()
 {
-	if(m_bconnectionStatus)
+	if(this->m_bconnectionStatus)
 	{
-		close(m_isocketFD);
-	        Shutdown();
+		close(this->m_isocketFD);
+	        this->Shutdown();
 	}
-	m_bconnectionStatus = false;
-	m_bsocketCreatedStatus = false;
+	this->m_bconnectionStatus = false;
+	this->m_bsocketCreatedStatus = false;
 	
 }
 
@@ -32,18 +32,18 @@ void CBasicSocket::ForceShutdown(int a_isocketFD)
 }
 bool CBasicSocket::Close()
 {
-	close(m_isocketFD);
+	close(this->m_isocketFD);
 	Shutdown();
-	m_bconnectionStatus = false;
-	m_bsocketCreatedStatus = false;
+	this->m_bconnectionStatus = false;
+	this->m_bsocketCreatedStatus = false;
 }
 bool CBasicSocket::Shutdown()
 {
-	shutdown(m_isocketFD,SHUT_RDWR);
+	shutdown(this->m_isocketFD,SHUT_RDWR);
 }
 bool CBasicSocket::Listen( int a_iqueueLength)
 {
-	int l_ilistenStatus = listen(m_isocketFD, a_iqueueLength);
+	int l_ilistenStatus = listen(this->m_isocketFD, a_iqueueLength);
 	
 	if(l_ilistenStatus != 0) 
 		return false;
@@ -57,19 +57,19 @@ int CBasicSocket::Accept()
 }
 void CBasicSocket::SetSocketFD(int a_isocketFD)
 {
-	m_isocketFD = a_isocketFD;
+	this->m_isocketFD = a_isocketFD;
 }
 int CBasicSocket::GetSocketFD()
 {
-	return m_isocketFD;
+	return this->m_isocketFD;
 }
 bool CBasicSocket::GetConnectionStatus()
 {
-	return m_bconnectionStatus;
+	return this->m_bconnectionStatus;
 }
 bool CBasicSocket::GetSocketCreatedStatus()
 {
-	return m_bsocketCreatedStatus;
+	return this->m_bsocketCreatedStatus;
 }
 
 bool CBasicSocket::Bind(std::string a_ssourceIP, int a_iportNumber)
@@ -91,10 +91,10 @@ bool CBasicSocket::Connect()
 }
 void CBasicSocket::SetConnectionStatus(bool a_bconnectionStatus)
 {
-	m_bconnectionStatus = a_bconnectionStatus;
+	this->m_bconnectionStatus = a_bconnectionStatus;
 }
 void CBasicSocket::SetSocketCreatedStatus(bool a_bsocketCreatedStatus)
 {
-	m_bsocketCreatedStatus = a_bsocketCreatedStatus;
+	this->m_bsocketCreatedStatus = a_bsocketCreatedStatus;
 }
 

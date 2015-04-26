@@ -10,17 +10,15 @@ bool CServerSocket::m_bserverRunningStatus = false;
 
 CServerSocket::CServerSocket()
 {
-	m_upserverSocketObject = NULL;
+	this->m_upserverSocketObject = NULL;
 }
 
 CServerSocket::~CServerSocket()
 {
-	std::cout<<"Going to delete socket object"<<std::endl;
-	if(m_upserverSocketObject!=NULL)
+	if(this->m_upserverSocketObject!=NULL)
 	{
-		delete m_upserverSocketObject;
-		m_upserverSocketObject = NULL;
-		std::cout<<"Deleted socket object"<<std::endl;
+		delete this->m_upserverSocketObject;
+		this->m_upserverSocketObject = NULL;
 	}
 }
 void CServerSocket::SetServerConnectionQueueSize(int a_iserverConnectionQueueSize)
@@ -150,12 +148,26 @@ void CServerSocket::SetSocketInstance(CBasicSocket* a_upsocketObject)
 }
 bool CServerSocket::SendMessage(std::string a_sdata, int& a_imessageLength)
 {
-	return this->GetSocketInstance()->Send(a_sdata, a_imessageLength);
+	if(this->GetSocketInstance()->GetConnectionStatus())
+	{
+		return this->GetSocketInstance()->Send(a_sdata, a_imessageLength);
+	}
+	else
+	{
+		return false;
+	}
 }
 
 bool CServerSocket::ReceiveMessage(std::string& a_sdata, int& a_ireceivedDataLength)
 {
-	return this->GetSocketInstance()->Receive(a_sdata,a_ireceivedDataLength);
+	if(this->GetSocketInstance()->GetConnectionStatus())
+        {
+		return this->GetSocketInstance()->Receive(a_sdata,a_ireceivedDataLength);
+	}
+	else
+        {
+                return false;
+        }
 }
 
 void CServerSocket::ForceDisconnect(int a_isocketFD)
@@ -251,10 +263,8 @@ void* CServerSocket::ThreadMessageReceiver(void* a_uparguments)
 		std::cout<<"Waiting for data in ThreadMessageReceiver"<<std::endl;
 		if( l_upcurrentObject->ReceiveMessage(l_sbuffer,l_inumberOfBytes))
 		{
-			std::cout<<"Received Data Length = "<<l_inumberOfBytes<<std::endl;
 			if(l_inumberOfBytes > 0)
 			{
-				std::cout<<"Caling OnMessageReceive.."<<std::endl;
 				l_upcurrentObject->OnMessageReceive(l_sbuffer,l_upcurrentObject->GetSocketInstance()->GetSocketFD());
 			}	
 		}

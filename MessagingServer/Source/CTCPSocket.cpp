@@ -50,11 +50,13 @@ bool CTCPSocket::Receive(std::string& a_sreceivedData, int& a_ireceivedMessageLe
 	bool l_breceiveStatus = false;
 
 	a_ireceivedMessageLength = recv(this->GetSocketFD(), l_cpbuffer, MAX_BUFFER_SIZE - 1,MSG_NOSIGNAL);
+	/*
 	std::cout<<"Received Buffer is..."<<std::endl;
 	for(int i=0;i<a_ireceivedMessageLength;i++)
 	{
 		fprintf(stdout,"%02X ",l_cpbuffer[i]);
 	}
+	*/
 	if(a_ireceivedMessageLength == 0)
 	{
 		l_breceiveStatus = false;

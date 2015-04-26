@@ -1,5 +1,5 @@
 CC= g++ -w -g
-OBJS = CBasicSocket.o CMessagingServer.o CServerSocket.o CSynchronousSocketFactory.o CTCPSocket.o MessagingServerMain.o 
+OBJS = CBasicSocket.o CMessagingServer.o CServerSocket.o CSynchronousSocketFactory.o CTCPSocket.o MessagingServerMain.o CConfigData.o CFileReader.o
 
 All: MessagingServer
 	
@@ -19,7 +19,12 @@ CSynchronousSocketFactory.o:
 CTCPSocket.o:
 	$(CC) -c CTCPSocket.cpp
 MessagingServerMain.o:
-	$(CC) $(MYSQL) -c MessagingServerMain.cpp
+	$(CC) -c MessagingServerMain.cpp
+CConfigData.o:
+	$(CC) -c CConfigData.cpp
+CFileReader.o:
+	$(CC) -c CFileReader.cpp
+
 	
 clean:
 	rm -f *.o
