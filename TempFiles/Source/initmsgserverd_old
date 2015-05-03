@@ -1,0 +1,127 @@
+#!/bin/sh
+#
+# Startup script for the msgserverd Server
+#
+# chkconfig: 3 50 50
+# description: msgserverd listen for new socket connections and handles the message received through the socket
+# processname: msgserverd
+# pidfile: /opt/msgserverd/var/run/msgserverd.pid
+# config:  /opt/msgserverd/etc/msgserverd.conf
+# command: /opt/msgserverd/sbin/msgserverd
+CONFIG_FILE=/opt/msgserverd/etc/msgserverd.conf
+PID_FILE=/opt/msgserverd/var/run/msgserverd.pid
+CMD_FILE=/opt/msgserverd/sbin/msgserverd
+LOG_DIRECTORY=/opt/msgserverd/var/log
+SERVERPORT=8787
+
+ActivePID=`pgrep msgserverd`
+case "$1" in
+start)
+# Starts the msgserverd deamon
+if [ -e $PID_FILE ]; then
+	StoredPID=`cat $PID_FILE`
+	if [ "$StoredPID" != '' ] ; then
+		if [[ "$ActivePID" = "$StoredPID" ]] ; then
+			echo "Service msgserverd is already runnig!!...."
+			exit
+		else
+			if [ "$ActivePID" != '' ] ; then
+				echo $ActivePID > $PID_FILE
+				echo "Service msgserverd is already runnig!!...."
+				exit
+			else
+				>$PID_FILE	
+			fi	
+		fi
+	else
+		if [ "$ActivePID" != '' ] ; then
+                        echo $ActivePID > $PID_FILE
+                        echo "Service msgserverd is already runnig!!...."
+                        exit
+		fi
+	fi
+else
+	if [ "$ActivePID" != '' ] ; then
+        	echo $ActivePID > $PID_FILE
+		echo "Service msgserverd is already runnig!!...."
+		exit
+	fi
+fi
+
+echo "Starting service msgserverd..."
+$CMD_FILE -p $SERVERPORT -c $CONFIG_FILE -l $LOG_DIRECTORY
+echo "Service msgserverd started."
+;;
+
+stop)
+# stops the daemon bt cat’ing the pidfile
+echo "Stopping service msgserverd.."
+if [ -e $PID_FILE ]; then
+	StoredPID=`cat $PID_FILE`
+	if [ "$StoredPID" = '' ] ; then
+		if [ "$ActivePID" != '' ] ; then
+			kill -9 $ActivePID
+		fi
+	else
+		kill -9 $StoredPID 
+	fi
+	>$PID_FILE
+fi
+echo "Service msgserverd stopped."
+;;
+
+restart)
+## Stop the service regardless of whether it was
+## running or not, start it again.
+echo "Restarting service msgserverd.."
+$0 stop
+$0 start
+;;
+
+status)
+# display the status of the service
+if [ -e $PID_FILE ]; then
+        StoredPID=`cat $PID_FILE`
+	if [ "$StoredPID" != '' ] ; then
+	        if [[ "$ActivePID" = "$StoredPID" ]] ; then
+        	        echo "Service msgserverd is runnig!!...."
+                	exit
+	        else
+        	        if [ "$ActivePID" != '' ] ; then
+                	        echo $ActivePID > $PID_FILE
+                        	echo "Service msgserverd is runnig!!...."
+	                        exit
+        	        else
+                	        >$PID_FILE
+				echo "Service msgserverd is stopped."
+	                fi
+        	fi
+	else
+		
+                if [ "$ActivePID" != '' ] ; then
+                        echo $ActivePID > $PID_FILE
+                        echo "Service msgserverd is runnig!!...."
+                        exit
+		else
+			echo "Service msgserverd is stopped."
+		fi
+	fi
+else
+	if [ "$ActivePID" != '' ] ; then
+		echo $ActivePID > $PID_FILE
+		echo "Service msgserverd is runnig!!...."
+		exit
+	else
+		>$PID_FILE
+		echo "Service msgserverd is stopped."
+	fi
+fi
+;;
+
+*)
+echo "Usage: msgserverd (start|stop|restart|status)"
+exit 1
+;;
+
+esac
+

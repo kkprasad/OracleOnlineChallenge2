@@ -1,0 +1,99 @@
+#! /bin/bash
+#
+# msgserverd          Start/Stop the msgserverd daemon.
+#
+# chkconfig: 3 90 60
+# description: This service accepts connections from client sockets
+#	       and process the messages received from the clients
+# processname: msgserverd
+# config: /opt/msgserverd/etc/msgserverd.conf
+# pidfile: /opt/msgserverd/var/run/msgserverd.pid
+
+# Source function library.
+. /etc/init.d/functions
+ 
+# See how we were called.
+
+CONFIG_FILE=/opt/msgserverd/etc/msgserverd.conf
+PID_FILE=/opt/msgserverd/var/run/msgserverd.pid
+LOCK_FILE=/opt/msgserverd/var/lock/msgserverd
+CMD_FILE=/opt/msgserverd/sbin/msgserverd
+LOG_DIRECTORY=/opt/msgserverd/var/log
+SERVERPORT=8787
+
+export MSGSERVER_HOME=/opt/msgserverd/
+
+prog="msgserverd"
+
+start() {
+	echo -n $"Starting $prog: "	
+        if [ -e $LOCK_FILE ]; then
+	    if [ -e $PID_FILE ] && [ -e /proc/`cat $PID_FILE` ]; then
+		echo -n $"cannot start msgserverd: msgserverd is already running.";
+		failure $"cannot start msgserverd: msgserverd already running.";
+		echo
+		return 1
+	    fi
+	fi
+	daemon $CMD_FILE -p $SERVERPORT -c $CONFIG_FILE -l $LOG_DIRECTORY
+	RETVAL=$?
+	echo
+	[ $RETVAL -eq 0 ] && touch $LOCK_FILE;
+	return $RETVAL
+}
+
+stop() {
+	echo -n $"Stopping $prog: "
+        if [ ! -e $LOCK_FILE ]; then
+	    echo -n $"cannot stop msgserverd: msgserverd is not running."
+	    failure $"cannot stop msgserverd: msgserverd is not running."
+	    echo
+	    return 1;
+	fi
+	killproc msgserverd
+	RETVAL=$?
+	echo
+        [ $RETVAL -eq 0 ] && rm -f $LOCK_FILE;
+	return $RETVAL
+}	
+
+rhstatus() {
+	status msgserverd
+}	
+
+restart() {
+  	stop
+	start
+}	
+
+reload() {
+	echo -n $"Reloading msgserver daemon configuration: "
+	killproc msgserverd -HUP
+	RETVAL=$?
+	echo
+	return $RETVAL
+}	
+
+case "$1" in
+  start)
+  	start
+	;;
+  stop)
+  	stop
+	;;
+  restart)
+  	restart
+	;;
+  reload)
+  	reload
+	;;
+  status)
+  	rhstatus
+	;;
+  condrestart)
+  	[ -f $LOCK_FILE ] && restart || :
+	;;
+  *)
+	echo $"Usage: $0 {start|stop|status|reload|restart|condrestart}"
+	exit 1
+esac

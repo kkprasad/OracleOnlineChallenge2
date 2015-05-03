@@ -57,7 +57,7 @@ while($index < $numArgs ) {
 	$index = $index + 1;
 }
 
-$logFileName = 'MessagingClient.log';
+$logFileName = "MsgClient_$$.log";
 
 open(my $fh, '>>', $logFileName) or die "Could not open log file '$logFileName' $!";
 
@@ -65,18 +65,18 @@ PrintToConsole( "Connecting to Server IP = $serverIP Port Number = $serverPortNu
 PrintToFile ("Connecting to Server IP = $serverIP Port Number = $serverPortNumber Number of Requests = $numberOfRequests");
 
 if(length($serverIP) == 0 ){
-	PrintToConsole( "Invalid Server IP. Exiting from Application");
-	PrintToFile ("Invalid Server IP. Exiting from Application");
+	PrintToConsole( "Invalid Server IP. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
+	PrintToFile ("Invalid Server IP. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
 	exit;
 }
 if(length($serverPortNumber) == 0 ){
-	PrintToConsole("Invalid Server Port Number. Exiting from Application");
-	PrintToFile ("Invalid Server Port Number. Exiting from Application");
+	PrintToConsole("Invalid Server Port Number. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
+	PrintToFile ("Invalid Server Port Number. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
 	exit;
 }
 if(length($numberOfRequests) == 0 ){
-	PrintToConsole("Invalid Number of Requests. Exiting from Application");
-	PrintToFile ("Invalid Number of Requests. Exiting from Application");
+	PrintToConsole("Invalid Number of Requests. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
+	PrintToFile ("Invalid Number of Requests. Exiting from Application\n Options are \n\t-p \tfor Port Number\n\t-s\t for Source IP\n\t-n\t for Number of Requests");
 	exit;
 }
 
@@ -140,6 +140,7 @@ PrintToConsole("Exiting From Client Application");
 PrintToFile ("Exiting From Client Application");
 PrintToConsole("\n..............................................\n");
 PrintToFile("\n..............................................\n");
+print "The logs are saved in file $logFileName";
 close $fh;
 
 sub PrintToConsole

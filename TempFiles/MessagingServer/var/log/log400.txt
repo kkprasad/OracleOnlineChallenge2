@@ -1,0 +1,793 @@
+
+02-May-2015 18:38:08#Starting Server...
+
+02-May-2015 18:38:08#Messaging server Listening port=8787
+02-May-2015 18:38:08#Started thread ThreadListenConnections
+02-May-2015 18:38:08#Starting Threads...
+
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:1
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:2
+02-May-2015 18:38:08#Bind Success ... 0n m_iSocketFD = 4
+
+02-May-2015 18:38:08#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:3
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:4
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:5
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:6
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:7
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:8
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:9
+02-May-2015 18:38:08#Starting ThreadMessageSender Number:10
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:1
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:2
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:3
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:4
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:5
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:6
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:7
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:8
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:9
+02-May-2015 18:38:08#Starting ThreadMessageHandler Number:10
+02-May-2015 18:38:08#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:38:08#Started Threads...
+
+02-May-2015 18:38:23#Received New Connection Request on Socket FD:5
+02-May-2015 18:38:23#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:38:23#Removed object from m_mActiveMessagingServerList:SocketFD=5
+02-May-2015 18:38:23#Exiting from ThreadMessageReceiver for SocketFD:5
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageSender
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:38:27#
+Exiting from ThreadMessageHandler
+02-May-2015 18:43:39#Starting Server...
+
+02-May-2015 18:43:39#Messaging server Listening port=8787
+02-May-2015 18:43:39#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:43:39#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:43:39#Started thread ThreadListenConnections
+02-May-2015 18:43:39#Starting Threads...
+
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:1
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:2
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:3
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:4
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:5
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:6
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:7
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:8
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:9
+02-May-2015 18:43:39#Starting ThreadMessageSender Number:10
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:1
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:2
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:3
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:4
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:5
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:6
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:7
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:8
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:9
+02-May-2015 18:43:39#Starting ThreadMessageHandler Number:10
+02-May-2015 18:43:39#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:43:39#Started Threads...
+
+02-May-2015 18:44:45#Starting Server...
+
+02-May-2015 18:44:45#Messaging server Listening port=8787
+02-May-2015 18:44:45#Started thread ThreadListenConnections
+02-May-2015 18:44:45#Starting Threads...
+
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:1
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:2
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:3
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:4
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:5
+02-May-2015 18:44:45#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:44:45#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:6
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:7
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:8
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:9
+02-May-2015 18:44:45#Starting ThreadMessageSender Number:10
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:1
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:2
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:3
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:4
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:5
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:6
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:7
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:8
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:9
+02-May-2015 18:44:45#Starting ThreadMessageHandler Number:10
+02-May-2015 18:44:45#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:44:45#Started Threads...
+
+02-May-2015 18:52:54#Starting Server...
+
+02-May-2015 18:52:54#Messaging server Listening port=8787
+02-May-2015 18:52:54#Started thread ThreadListenConnections
+02-May-2015 18:52:54#Starting Threads...
+
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:1
+02-May-2015 18:52:54#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:52:54#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:2
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:3
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:4
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:5
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:6
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:7
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:8
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:9
+02-May-2015 18:52:54#Starting ThreadMessageSender Number:10
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:1
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:2
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:3
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:4
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:5
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:6
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:7
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:8
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:9
+02-May-2015 18:52:54#Starting ThreadMessageHandler Number:10
+02-May-2015 18:52:54#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:52:54#Started Threads...
+
+02-May-2015 18:53:12#Starting Server...
+
+02-May-2015 18:53:12#Messaging server Listening port=8787
+02-May-2015 18:53:12#Started thread ThreadListenConnections
+02-May-2015 18:53:12#Starting Threads...
+
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:1
+02-May-2015 18:53:12#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:53:12#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:2
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:3
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:4
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:5
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:6
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:7
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:8
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:9
+02-May-2015 18:53:12#Starting ThreadMessageSender Number:10
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:1
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:2
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:3
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:4
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:5
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:6
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:7
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:8
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:9
+02-May-2015 18:53:12#Starting ThreadMessageHandler Number:10
+02-May-2015 18:53:12#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:53:12#Started Threads...
+
+02-May-2015 18:55:49#Starting Server...
+
+02-May-2015 18:55:49#Messaging server Listening port=8787
+02-May-2015 18:55:49#Started thread ThreadListenConnections
+02-May-2015 18:55:49#Starting Threads...
+
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:1
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:2
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:3
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:4
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:5
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:6
+02-May-2015 18:55:49#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:55:49#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:7
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:8
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:9
+02-May-2015 18:55:49#Starting ThreadMessageSender Number:10
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:1
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:2
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:3
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:4
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:5
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:6
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:7
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:8
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:9
+02-May-2015 18:55:49#Starting ThreadMessageHandler Number:10
+02-May-2015 18:55:49#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:55:49#Started Threads...
+
+02-May-2015 18:59:10#Starting Server...
+
+02-May-2015 18:59:10#Messaging server Listening port=8787
+02-May-2015 18:59:10#Started thread ThreadListenConnections
+02-May-2015 18:59:10#Starting Threads...
+
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:1
+02-May-2015 18:59:10#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 18:59:10#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:2
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:3
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:4
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:5
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:6
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:7
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:8
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:9
+02-May-2015 18:59:10#Starting ThreadMessageSender Number:10
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:1
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:2
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:3
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:4
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:5
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:6
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:7
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:8
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:9
+02-May-2015 18:59:10#Starting ThreadMessageHandler Number:10
+02-May-2015 18:59:10#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 18:59:10#Started Threads...
+
+02-May-2015 19:16:15#Starting Server...
+
+02-May-2015 19:16:15#Messaging server Listening port=8787
+02-May-2015 19:16:15#Started thread ThreadListenConnections
+02-May-2015 19:16:15#Starting Threads...
+
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:1
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:2
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:3
+02-May-2015 19:16:15#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 19:16:15#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:4
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:5
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:6
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:7
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:8
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:9
+02-May-2015 19:16:15#Starting ThreadMessageSender Number:10
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:1
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:2
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:3
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:4
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:5
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:6
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:7
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:8
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:9
+02-May-2015 19:16:15#Starting ThreadMessageHandler Number:10
+02-May-2015 19:16:15#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 19:16:15#Started Threads...
+
+02-May-2015 19:25:54#Starting Server...
+
+02-May-2015 19:25:54#Messaging server Listening port=8787
+02-May-2015 19:25:54#Started thread ThreadListenConnections
+02-May-2015 19:25:54#Starting Threads...
+
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:1
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:2
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:3
+02-May-2015 19:25:54#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 19:25:54#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:4
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:5
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:6
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:7
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:8
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:9
+02-May-2015 19:25:54#Starting ThreadMessageSender Number:10
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:1
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:2
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:3
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:4
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:5
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:6
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:7
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:8
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:9
+02-May-2015 19:25:54#Starting ThreadMessageHandler Number:10
+02-May-2015 19:25:54#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 19:25:54#Started Threads...
+
+02-May-2015 19:26:53#Starting Server...
+
+02-May-2015 19:26:53#Messaging server Listening port=8787
+02-May-2015 19:26:53#Started thread ThreadListenConnections
+02-May-2015 19:26:53#Starting Threads...
+
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:1
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:2
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:3
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:4
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:5
+02-May-2015 19:26:53#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 19:26:53#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:6
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:7
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:8
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:9
+02-May-2015 19:26:53#Starting ThreadMessageSender Number:10
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:1
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:2
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:3
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:4
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:5
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:6
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:7
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:8
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:9
+02-May-2015 19:26:53#Starting ThreadMessageHandler Number:10
+02-May-2015 19:26:53#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 19:26:53#Started Threads...
+
+02-May-2015 19:49:13#Starting Server...
+
+02-May-2015 19:49:13#Messaging server Listening port=8787
+02-May-2015 19:49:13#Started thread ThreadListenConnections
+02-May-2015 19:49:13#Starting Threads...
+
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:1
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:2
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:3
+02-May-2015 19:49:13#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 19:49:13#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:4
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:5
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:6
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:7
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:8
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:9
+02-May-2015 19:49:13#Starting ThreadMessageSender Number:10
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:1
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:2
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:3
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:4
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:5
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:6
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:7
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:8
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:9
+02-May-2015 19:49:13#Starting ThreadMessageHandler Number:10
+02-May-2015 19:49:13#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 19:49:13#Started Threads...
+
+02-May-2015 20:10:44#Starting Server...
+
+02-May-2015 20:10:44#Messaging server Listening port=8787
+02-May-2015 20:10:44#Started thread ThreadListenConnections
+02-May-2015 20:10:44#Starting Threads...
+
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:1
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:2
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:3
+02-May-2015 20:10:44#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:10:44#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:4
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:5
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:6
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:7
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:8
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:9
+02-May-2015 20:10:44#Starting ThreadMessageSender Number:10
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:1
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:2
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:3
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:4
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:5
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:6
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:7
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:8
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:9
+02-May-2015 20:10:44#Starting ThreadMessageHandler Number:10
+02-May-2015 20:10:44#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:10:44#Started Threads...
+
+02-May-2015 20:11:44#Starting Server...
+
+02-May-2015 20:11:44#Messaging server Listening port=8787
+02-May-2015 20:11:44#Started thread ThreadListenConnections
+02-May-2015 20:11:44#Starting Threads...
+
+02-May-2015 20:11:44#Starting ThreadMessageSender Number:1
+02-May-2015 20:11:44#Starting ThreadMessageSender Number:2
+02-May-2015 20:11:44#Starting ThreadMessageSender Number:3
+02-May-2015 20:11:44#Starting ThreadMessageSender Number:4
+02-May-2015 20:11:44#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:11:44#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:11:44#Starting ThreadMessageSender Number:5
+02-May-2015 20:11:44#Starting ThreadMessageHandler Number:1
+02-May-2015 20:11:44#Starting ThreadMessageHandler Number:2
+02-May-2015 20:11:44#Starting ThreadMessageHandler Number:3
+02-May-2015 20:11:44#Starting ThreadMessageHandler Number:4
+02-May-2015 20:11:44#Starting ThreadMessageHandler Number:5
+02-May-2015 20:11:44#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:11:44#Started Threads...
+
+02-May-2015 20:14:56#Starting Server...
+
+02-May-2015 20:14:56#Messaging server Listening port=8787
+02-May-2015 20:14:56#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:14:56#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:14:56#Started thread ThreadListenConnections
+02-May-2015 20:14:56#Starting Threads...
+
+02-May-2015 20:14:56#Starting ThreadMessageSender Number:1
+02-May-2015 20:14:56#Starting ThreadMessageSender Number:2
+02-May-2015 20:14:56#Starting ThreadMessageSender Number:3
+02-May-2015 20:14:56#Starting ThreadMessageSender Number:4
+02-May-2015 20:14:56#Starting ThreadMessageSender Number:5
+02-May-2015 20:14:56#Starting ThreadMessageHandler Number:1
+02-May-2015 20:14:56#Starting ThreadMessageHandler Number:2
+02-May-2015 20:14:56#Starting ThreadMessageHandler Number:3
+02-May-2015 20:14:56#Starting ThreadMessageHandler Number:4
+02-May-2015 20:14:56#Starting ThreadMessageHandler Number:5
+02-May-2015 20:14:56#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:14:56#Started Threads...
+
+02-May-2015 20:17:36#Starting Server...
+
+02-May-2015 20:17:36#Messaging server Listening port=8787
+02-May-2015 20:17:36#Started thread ThreadListenConnections
+02-May-2015 20:17:36#Starting Threads...
+
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:1
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:2
+02-May-2015 20:17:36#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:17:36#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:3
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:4
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:5
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:6
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:7
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:8
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:9
+02-May-2015 20:17:36#Starting ThreadMessageSender Number:10
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:1
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:2
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:3
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:4
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:5
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:6
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:7
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:8
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:9
+02-May-2015 20:17:36#Starting ThreadMessageHandler Number:10
+02-May-2015 20:17:36#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:17:36#Started Threads...
+
+02-May-2015 20:19:15#Starting Server...
+
+02-May-2015 20:19:15#Messaging server Listening port=8787
+02-May-2015 20:19:15#Started thread ThreadListenConnections
+02-May-2015 20:19:15#Starting Threads...
+
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:1
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:2
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:3
+02-May-2015 20:19:15#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:19:15#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:4
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:5
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:6
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:7
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:8
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:9
+02-May-2015 20:19:15#Starting ThreadMessageSender Number:10
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:1
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:2
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:3
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:4
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:5
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:6
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:7
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:8
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:9
+02-May-2015 20:19:15#Starting ThreadMessageHandler Number:10
+02-May-2015 20:19:15#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:19:15#Started Threads...
+
+02-May-2015 20:23:20#Starting Server...
+
+02-May-2015 20:23:20#Messaging server Listening port=8787
+02-May-2015 20:23:20#Started thread ThreadListenConnections
+02-May-2015 20:23:20#Starting Threads...
+
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:1
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:2
+02-May-2015 20:23:20#Bind Success ... 0n m_iSocketFD = 5
+
+02-May-2015 20:23:20#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:3
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:4
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:5
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:6
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:7
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:8
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:9
+02-May-2015 20:23:20#Starting ThreadMessageSender Number:10
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:1
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:2
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:3
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:4
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:5
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:6
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:7
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:8
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:9
+02-May-2015 20:23:20#Starting ThreadMessageHandler Number:10
+02-May-2015 20:23:20#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:23:20#Started Threads...
+
+02-May-2015 20:25:43#Starting Server...
+
+02-May-2015 20:25:43#Messaging server Listening port=8787
+02-May-2015 20:25:43#Started thread ThreadListenConnections
+02-May-2015 20:25:43#Starting Threads...
+
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:1
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:2
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:3
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:4
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:5
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:6
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:7
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:8
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:9
+02-May-2015 20:25:43#Starting ThreadMessageSender Number:10
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:1
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:2
+02-May-2015 20:25:43#Bind Success ... 0n m_iSocketFD = 4
+
+02-May-2015 20:25:43#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:3
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:4
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:5
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:6
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:7
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:8
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:9
+02-May-2015 20:25:43#Starting ThreadMessageHandler Number:10
+02-May-2015 20:25:43#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:25:43#Started Threads...
+
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageSender
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:25:48#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:56#Starting Server...
+
+02-May-2015 20:28:56#Messaging server Listening port=8787
+02-May-2015 20:28:56#Started thread ThreadListenConnections
+02-May-2015 20:28:56#Starting Threads...
+
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:1
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:2
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:3
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:4
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:5
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:6
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:7
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:8
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:9
+02-May-2015 20:28:56#Starting ThreadMessageSender Number:10
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:1
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:2
+02-May-2015 20:28:56#Bind Success ... 0n m_iSocketFD = 4
+
+02-May-2015 20:28:56#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:3
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:4
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:5
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:6
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:7
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:8
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:9
+02-May-2015 20:28:56#Starting ThreadMessageHandler Number:10
+02-May-2015 20:28:56#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:28:56#Started Threads...
+
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageSender
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadMessageHandler
+02-May-2015 20:28:59#
+Exiting from ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:31:37#Starting Server...
+
+02-May-2015 20:31:37#Messaging server Listening port=8787
+02-May-2015 20:31:37#Started thread ThreadListenConnections
+02-May-2015 20:31:37#Starting Threads...
+
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:1
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:2
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:3
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:4
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:5
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:6
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:7
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:8
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:9
+02-May-2015 20:31:37#Starting ThreadMessageSender Number:10
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:1
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:2
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:3
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:4
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:5
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:6
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:7
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:8
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:9
+02-May-2015 20:31:37#Starting ThreadMessageHandler Number:10
+02-May-2015 20:31:37#Starting ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:31:37#Started Threads...
+
+02-May-2015 20:31:37#Bind Success ... 0n m_iSocketFD = 4
+
+02-May-2015 20:31:37#CServerSocket::ThreadListenConnections:Waiting for New Connections Request..
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadMessageHandler
+02-May-2015 20:31:44#
+Exiting from ThreadDeleteObseleteMessageHandlers
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender
+02-May-2015 20:31:44#
+Exiting from ThreadMessageSender

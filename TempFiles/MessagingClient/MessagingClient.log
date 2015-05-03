@@ -1,0 +1,644 @@
+
+PID=5773|26-Apr-2015 19:24:38|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=5773|26-Apr-2015 19:24:38|TCP Connection Success.
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 0  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:0 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:1 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:2 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:3 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:4 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:5 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:6 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:7 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:8 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=5773|26-Apr-2015 19:24:38|Response Packet Number:9 from Server. Data : The message is ABCDEFGHIJKMNPQSTUVWXY12345abcdeghjkloprtuvwxy6790
+PID=5773|26-Apr-2015 19:24:38|Request Packet to Server. Data:BYE
+PID=5773|26-Apr-2015 19:24:38|Exiting From Client Application
+PID=6120|26-Apr-2015 20:48:50|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6120|26-Apr-2015 20:48:50|TCP Connection Success.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 0  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:0 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:1 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:2 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:3 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:4 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:5 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:6 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:7 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:8 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6120|26-Apr-2015 20:48:50|Failed In Receiving Packet Number:9 from Server.
+PID=6120|26-Apr-2015 20:48:50|Request Packet to Server. Data:BYE
+PID=6120|26-Apr-2015 20:48:50|Exiting From Client Application
+PID=6135|26-Apr-2015 20:53:00|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6136|26-Apr-2015 20:53:53|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6211|26-Apr-2015 20:57:42|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6211|26-Apr-2015 20:57:42|TCP Connection Success.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:1 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:2 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:3 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:4 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:5 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:6 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:7 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:8 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:9 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6211|26-Apr-2015 20:57:42|Failed In Receiving Packet Number:10 from Server.
+PID=6211|26-Apr-2015 20:57:42|Request Packet to Server. Data:BYE
+PID=6211|26-Apr-2015 20:57:42|Exiting From Client Application
+PID=6217|26-Apr-2015 20:59:39|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6217|26-Apr-2015 20:59:39|TCP Connection Success.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:1 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:2 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:3 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:4 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:5 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:6 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:7 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:8 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:9 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6217|26-Apr-2015 20:59:39|Failed In Receiving Packet Number:10 from Server.
+PID=6217|26-Apr-2015 20:59:39|Request Packet to Server. Data:BYE
+PID=6217|26-Apr-2015 20:59:39|Exiting From Client Application
+PID=6249|26-Apr-2015 21:08:19|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6249|26-Apr-2015 21:08:19|TCP Connection Success.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:1 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:2 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:3 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:4 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:5 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:6 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:7 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:8 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:9 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6249|26-Apr-2015 21:08:19|Failed In Receiving Packet Number:10 from Server.
+PID=6249|26-Apr-2015 21:08:19|Request Packet to Server. Data:BYE
+PID=6249|26-Apr-2015 21:08:19|Exiting From Client Application
+PID=6262|26-Apr-2015 21:10:41|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6262|26-Apr-2015 21:10:41|TCP Connection Success.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:1 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:2 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:3 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:4 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:5 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:6 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:7 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:8 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:9 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6262|26-Apr-2015 21:10:41|Failed In Receiving Packet Number:10 from Server.
+PID=6262|26-Apr-2015 21:10:41|Request Packet to Server. Data:BYE
+PID=6262|26-Apr-2015 21:10:41|Exiting From Client Application
+PID=6268|26-Apr-2015 21:12:25|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6268|26-Apr-2015 21:12:25|TCP Connection Success.
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:1 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:2 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:3 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:4 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:5 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:6 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:7 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:8 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:9 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6268|26-Apr-2015 21:12:25|Response Packet Number:10 from Server. Data : The message is ABCDEFGHJKLMNOPQRUVWXYZ0135acefgijklmoqrtvxyz67890
+PID=6268|26-Apr-2015 21:12:25|Request Packet to Server. Data:BYE
+PID=6268|26-Apr-2015 21:12:25|Exiting From Client Application
+PID=6365|26-Apr-2015 21:37:26|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6365|26-Apr-2015 21:37:26|TCP Connection Success.
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:1 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:2 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:3 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:4 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:5 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:6 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:7 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:8 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:9 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6365|26-Apr-2015 21:37:26|Response Packet Number:10 from Server. Data : The message is ABCDEGIJKLMNOPRSUWXYZ0345abcdeghijklmnoqrstvwxz690
+PID=6365|26-Apr-2015 21:37:26|Request Packet to Server. Data:BYE
+PID=6365|26-Apr-2015 21:37:26|Exiting From Client Application
+PID=6371|26-Apr-2015 21:38:56|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6371|26-Apr-2015 21:38:56|TCP Connection Success.
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:1 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:2 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:3 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:4 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:5 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:6 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:7 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:8 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:9 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6371|26-Apr-2015 21:38:56|Response Packet Number:10 from Server. Data : The message is ABCEFGIJKLNOPQRSUXYZ02345abcdeghijklmnqrstuvxy6890
+PID=6371|26-Apr-2015 21:38:56|Request Packet to Server. Data:BYE
+PID=6371|26-Apr-2015 21:38:56|Exiting From Client Application
+PID=6371|26-Apr-2015 21:38:56|
+..............................................
+
+PID=6616|26-Apr-2015 22:14:32|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6616|26-Apr-2015 22:14:32|Invalid Server IP. Exiting from Application
+PID=6623|26-Apr-2015 22:16:36|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6623|26-Apr-2015 22:16:36|Invalid Server IP. Exiting from Application
+PID=6631|26-Apr-2015 22:19:58|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6631|26-Apr-2015 22:19:58|Invalid Server IP. Exiting from Application
+PID=6636|26-Apr-2015 22:20:22|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6636|26-Apr-2015 22:20:22|Invalid Server IP. Exiting from Application
+PID=6642|26-Apr-2015 22:22:49|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6642|26-Apr-2015 22:22:49|Invalid Server IP. Exiting from Application
+PID=6645|26-Apr-2015 22:23:02|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6645|26-Apr-2015 22:23:02|Invalid Server IP. Exiting from Application
+PID=6649|26-Apr-2015 22:24:57|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6649|26-Apr-2015 22:24:57|Invalid Server IP. Exiting from Application
+PID=6657|26-Apr-2015 22:27:09|Connecting to Server IP =  Port Number = 8787 Number of Requests = 10
+PID=6657|26-Apr-2015 22:27:09|Invalid Server IP. Exiting from Application
+PID=6661|26-Apr-2015 22:28:09|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6730|26-Apr-2015 22:32:57|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6730|26-Apr-2015 22:32:57|TCP Connection Success.
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:1 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:2 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:3 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:4 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:5 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:6 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:7 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:8 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:9 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6730|26-Apr-2015 22:32:57|Response Packet Number:10 from Server. Data : The message is ABDFGHJLMNOPQRSTUVWXZ135abcdefghijkmorstuvwyz67890
+PID=6730|26-Apr-2015 22:32:57|Request Packet to Server. Data:BYE
+PID=6730|26-Apr-2015 22:32:57|Exiting From Client Application
+PID=6730|26-Apr-2015 22:32:57|
+..............................................
+
+PID=6732|26-Apr-2015 22:33:20|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6732|26-Apr-2015 22:33:20|TCP Connection Success.
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:1 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:2 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:3 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:4 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:5 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:6 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:7 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:8 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:9 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6732|26-Apr-2015 22:33:20|Response Packet Number:10 from Server. Data : The message is ABCDEFGHIJLMOPRSTUVWXZ02345abcefhijklnpqrtuwz67890
+PID=6732|26-Apr-2015 22:33:20|Request Packet to Server. Data:BYE
+PID=6732|26-Apr-2015 22:33:20|Exiting From Client Application
+PID=6732|26-Apr-2015 22:33:20|
+..............................................
+
+PID=6757|26-Apr-2015 22:43:01|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6757|26-Apr-2015 22:43:01|TCP Connection Success.
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:1 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:2 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:3 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:4 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:5 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:6 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:7 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:8 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:9 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6757|26-Apr-2015 22:43:01|Response Packet Number:10 from Server. Data : The message is ACDEFGHIJMNOPQSTUVWXYZ123bcefhijklmnpqrsvwxyz67890
+PID=6757|26-Apr-2015 22:43:01|Request Packet to Server. Data:BYE
+PID=6757|26-Apr-2015 22:43:01|Exiting From Client Application
+PID=6757|26-Apr-2015 22:43:01|
+..............................................
+
+PID=6759|26-Apr-2015 22:43:23|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6759|26-Apr-2015 22:43:23|TCP Connection Success.
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:1 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:2 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:3 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:4 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:5 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:6 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:7 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:8 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:9 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6759|26-Apr-2015 22:43:23|Response Packet Number:10 from Server. Data : The message is ABCDEFGHIJKLMOPQRTUVZ0123abcefghjklmpqrstuvwxy6890
+PID=6759|26-Apr-2015 22:43:23|Request Packet to Server. Data:BYE
+PID=6759|26-Apr-2015 22:43:23|Exiting From Client Application
+PID=6759|26-Apr-2015 22:43:23|
+..............................................
+
+PID=6761|26-Apr-2015 22:43:37|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6761|26-Apr-2015 22:43:37|TCP Connection Success.
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:1 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:2 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:3 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:4 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:5 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:6 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:7 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:8 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:9 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6761|26-Apr-2015 22:43:37|Response Packet Number:10 from Server. Data : The message is ACDGHIJKLMNOPQSTVWXYZ01235abcdefghijklmnopquyz6890
+PID=6761|26-Apr-2015 22:43:37|Request Packet to Server. Data:BYE
+PID=6761|26-Apr-2015 22:43:37|Exiting From Client Application
+PID=6761|26-Apr-2015 22:43:37|
+..............................................
+
+PID=6765|26-Apr-2015 22:44:29|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6765|26-Apr-2015 22:44:29|TCP Connection Success.
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:1 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:2 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:3 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:4 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:5 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:6 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:7 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:8 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:9 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6765|26-Apr-2015 22:44:29|Response Packet Number:10 from Server. Data : The message is CDEFGHIJKLNPQRUVYZ012345abcdefghiklmnopqrtuvxyz890
+PID=6765|26-Apr-2015 22:44:29|Request Packet to Server. Data:BYE
+PID=6765|26-Apr-2015 22:44:29|Exiting From Client Application
+PID=6765|26-Apr-2015 22:44:29|
+..............................................
+
+PID=6767|26-Apr-2015 22:44:50|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6767|26-Apr-2015 22:44:50|TCP Connection Success.
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:1 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:2 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:3 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:4 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:5 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:6 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:7 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:8 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:9 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6767|26-Apr-2015 22:44:50|Response Packet Number:10 from Server. Data : The message is ABCEGHJKLMPRSTUVXYZ0125abcdefghijklnopqrstvwyz6890
+PID=6767|26-Apr-2015 22:44:50|Request Packet to Server. Data:BYE
+PID=6767|26-Apr-2015 22:44:50|Exiting From Client Application
+PID=6767|26-Apr-2015 22:44:50|
+..............................................
+
+PID=6773|26-Apr-2015 22:45:37|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6773|26-Apr-2015 22:45:37|TCP Connection Success.
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:1 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:2 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:3 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:4 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:5 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:6 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:7 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:8 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:9 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6773|26-Apr-2015 22:45:37|Response Packet Number:10 from Server. Data : The message is ABCDFGHIJKMNOPQRSTUVWXYZ014abcfikmnoqrstuvxyz67890
+PID=6773|26-Apr-2015 22:45:37|Request Packet to Server. Data:BYE
+PID=6773|26-Apr-2015 22:45:37|Exiting From Client Application
+PID=6773|26-Apr-2015 22:45:37|
+..............................................
+
+PID=6942|26-Apr-2015 23:03:07|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6964|26-Apr-2015 23:04:54|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=6964|26-Apr-2015 23:04:54|TCP Connection Success.
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:1 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:2 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:3 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:4 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:5 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:6 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:7 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:8 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:9 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=6964|26-Apr-2015 23:04:54|Response Packet Number:10 from Server. Data : The message is ABCEFGHIKLMNOQSTUVWYZ02345bcdefgjklmnopqrtuvwxz670
+PID=6964|26-Apr-2015 23:04:54|Request Packet to Server. Data:BYE
+PID=6964|26-Apr-2015 23:04:54|Exiting From Client Application
+PID=6964|26-Apr-2015 23:04:54|
+..............................................
+
+PID=7006|26-Apr-2015 23:06:23|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7006|26-Apr-2015 23:06:23|TCP Connection Success.
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:1 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:2 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:3 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:4 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:5 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:6 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:7 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:8 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:9 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7006|26-Apr-2015 23:06:23|Response Packet Number:10 from Server. Data : The message is ABCDEFGHIJKNPQRSUVWXYZ01345abfghiklmnpqrtuvwy67890
+PID=7006|26-Apr-2015 23:06:23|Request Packet to Server. Data:BYE
+PID=7006|26-Apr-2015 23:06:23|Exiting From Client Application
+PID=7006|26-Apr-2015 23:06:23|
+..............................................
+
+PID=7008|26-Apr-2015 23:06:27|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7008|26-Apr-2015 23:06:27|TCP Connection Success.
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:1 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:2 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:3 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:4 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:5 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:6 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:7 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:8 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:9 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7008|26-Apr-2015 23:06:27|Response Packet Number:10 from Server. Data : The message is BCFGHJKLMNOPQRSTUVWXY015abcdfgijklmnoprtuvwxy67890
+PID=7008|26-Apr-2015 23:06:27|Request Packet to Server. Data:BYE
+PID=7008|26-Apr-2015 23:06:27|Exiting From Client Application
+PID=7008|26-Apr-2015 23:06:27|
+..............................................
+
+PID=7010|26-Apr-2015 23:06:37|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7010|26-Apr-2015 23:06:37|TCP Connection Success.
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:1 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:2 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:3 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:4 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:5 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:6 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:7 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:8 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:9 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7010|26-Apr-2015 23:06:37|Response Packet Number:10 from Server. Data : The message is ABDEFGHIJKLMNOQRSTUVWYZ02345bcfgijmnoqrstuvwxyz790
+PID=7010|26-Apr-2015 23:06:37|Request Packet to Server. Data:BYE
+PID=7010|26-Apr-2015 23:06:37|Exiting From Client Application
+PID=7010|26-Apr-2015 23:06:37|
+..............................................
+
+PID=7014|26-Apr-2015 23:06:49|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7014|26-Apr-2015 23:06:49|TCP Connection Success.
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:1 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:2 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:3 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:4 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:5 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:6 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:7 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:8 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:9 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7014|26-Apr-2015 23:06:49|Response Packet Number:10 from Server. Data : The message is ACDEFHILMNQRSTUVWXZ0134abcdefghijklnoqstuvwyz67890
+PID=7014|26-Apr-2015 23:06:49|Request Packet to Server. Data:BYE
+PID=7014|26-Apr-2015 23:06:49|Exiting From Client Application
+PID=7014|26-Apr-2015 23:06:49|
+..............................................
+
+PID=7018|26-Apr-2015 23:08:54|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7018|26-Apr-2015 23:08:54|TCP Connection Success.
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:1 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:2 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:3 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:4 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:5 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:6 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:7 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:8 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:9 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7018|26-Apr-2015 23:08:54|Response Packet Number:10 from Server. Data : The message is ABFGIJLMNOQSTUVWXY012345abdgijklmnopqrstuvwxyz6790
+PID=7018|26-Apr-2015 23:08:54|Request Packet to Server. Data:BYE
+PID=7018|26-Apr-2015 23:08:54|Exiting From Client Application
+PID=7018|26-Apr-2015 23:08:54|
+..............................................
+
+PID=7022|26-Apr-2015 23:09:16|Connecting to Server IP = localhost Port Number = 8787 Number of Requests = 10
+PID=7022|26-Apr-2015 23:09:16|TCP Connection Success.
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 1  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:1 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 2  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:2 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 3  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:3 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 4  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:4 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 5  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:5 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 6  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:6 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 7  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:7 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 8  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:8 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 9  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:9 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet Number: 10  to Server. Data: GETMESSAGE
+PID=7022|26-Apr-2015 23:09:16|Response Packet Number:10 from Server. Data : The message is ABEFGHIJKMNOQRVWYZ01345abcdfghijkmnoprstuvwyz67890
+PID=7022|26-Apr-2015 23:09:16|Request Packet to Server. Data:BYE
+PID=7022|26-Apr-2015 23:09:16|Exiting From Client Application
+PID=7022|26-Apr-2015 23:09:16|
+..............................................
